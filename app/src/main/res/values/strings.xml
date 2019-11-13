@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MonedaActivity</string>
+    <string name="titulo">CAMBIO DE MONEDA</string>
+    <string name="pae">Pts. a Euros</string>
+    <string name="eap">Euros a Pts.</string>
+    <string name="introduce">Introduce valor</string>
+    <string name="hint_valor">Valor</string>
+    <string name="btn_cambiar">Cambiar</string>
+    <string name="txt_cambio">equivalen a</string>
+    <string name="txtResultado">Debes teclear un valor numérico</string>
+</resources>
